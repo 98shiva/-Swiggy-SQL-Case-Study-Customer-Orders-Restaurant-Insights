@@ -33,4 +33,4 @@ Translate business questions into SQL queries
 
 Perform structured data analysis
 
-Generate insights useful for pricing, marketing, and product strategy
+Generate insights useful for pricing, marketing, and product strategy.
